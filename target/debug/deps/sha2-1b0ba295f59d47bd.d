@@ -1,0 +1,12 @@
+\\wsl.localhost\Ubuntu-22.04\home\amitesh\amm-cpi\target\debug\deps\libsha2-1b0ba295f59d47bd.rmeta: C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\consts.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha256.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha512.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha256\soft.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha256\x86.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha512\soft.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha512\x86.rs
+
+\\wsl.localhost\Ubuntu-22.04\home\amitesh\amm-cpi\target\debug\deps\sha2-1b0ba295f59d47bd.d: C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\consts.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha256.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha512.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha256\soft.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha256\x86.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha512\soft.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha512\x86.rs
+
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\lib.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\consts.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha256.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha512.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha256\soft.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha256\x86.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha512\soft.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha512\x86.rs:

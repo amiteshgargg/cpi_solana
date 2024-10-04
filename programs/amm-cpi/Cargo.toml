@@ -1,0 +1,30 @@
+[package]
+name = "amm-cpi"
+version = "0.1.0"
+description = "Created with Anchor"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+name = "amm_cpi"
+
+[features]
+no-entrypoint = []
+no-idl = []
+no-log-ix-name = []
+cpi = ["no-entrypoint"]
+default = []
+
+[dependencies]
+anchor-lang = "0.29.0"
+anchor-spl = "0.29.0"
+spl-token = { version = "3.5.0", features = ["no-entrypoint"] }
+amm-anchor = { git = "https://github.com/raydium-io/raydium-contract-instructions", package = "amm-anchor" }
+raydium-contract-instructions = { git = "https://github.com/raydium-io/raydium-contract-instructions"}
+raydium-amm-v3 = { git = "https://github.com/raydium-io/raydium-clmm", features = [
+    "no-entrypoint",
+    "cpi",
+] }
+
+solana-program = ">=1.16, <1.18"
+spl-memo = "4.0.0"

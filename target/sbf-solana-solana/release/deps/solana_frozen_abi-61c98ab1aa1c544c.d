@@ -1,0 +1,10 @@
+/home/amitesh/amm-cpi/target/sbf-solana-solana/release/deps/libsolana_frozen_abi-61c98ab1aa1c544c.rmeta: /home/amitesh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.16.25/src/lib.rs /home/amitesh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.16.25/src/abi_digester.rs /home/amitesh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.16.25/src/abi_example.rs /home/amitesh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.16.25/src/hash.rs
+
+/home/amitesh/amm-cpi/target/sbf-solana-solana/release/deps/libsolana_frozen_abi-61c98ab1aa1c544c.rlib: /home/amitesh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.16.25/src/lib.rs /home/amitesh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.16.25/src/abi_digester.rs /home/amitesh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.16.25/src/abi_example.rs /home/amitesh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.16.25/src/hash.rs
+
+/home/amitesh/amm-cpi/target/sbf-solana-solana/release/deps/solana_frozen_abi-61c98ab1aa1c544c.d: /home/amitesh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.16.25/src/lib.rs /home/amitesh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.16.25/src/abi_digester.rs /home/amitesh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.16.25/src/abi_example.rs /home/amitesh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.16.25/src/hash.rs
+
+/home/amitesh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.16.25/src/lib.rs:
+/home/amitesh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.16.25/src/abi_digester.rs:
+/home/amitesh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.16.25/src/abi_example.rs:
+/home/amitesh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.16.25/src/hash.rs:

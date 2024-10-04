@@ -1,0 +1,11 @@
+\\wsl.localhost\Ubuntu-22.04\home\amitesh\amm-cpi\target\debug\deps\libanchor_spl-62ea0062e00b9ebb.rmeta: C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\associated_token.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\mint.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\token.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\token_2022.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\token_interface.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\metadata.rs
+
+\\wsl.localhost\Ubuntu-22.04\home\amitesh\amm-cpi\target\debug\deps\anchor_spl-62ea0062e00b9ebb.d: C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\associated_token.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\mint.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\token.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\token_2022.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\token_interface.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\metadata.rs
+
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\lib.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\associated_token.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\mint.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\token.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\token_2022.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\token_interface.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\metadata.rs:
